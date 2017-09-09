@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/Users/akshayshahane/Downloads/xyz-reader-starter-code-master/XYZReader/build/intermediates/res/merged/debug/layout-v11/notification_media_action.xml",
+        "source": "/Users/akshayshahane/.android/build-cache/994b327ca2a0860be8c1eb71e06cbc95fa27d3fb/output/res/layout-v11/notification_media_action.xml"
+    },
+    {
+        "merged": "/Users/akshayshahane/Downloads/xyz-reader-starter-code-master/XYZReader/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_custom.xml",
+        "source": "/Users/akshayshahane/.android/build-cache/994b327ca2a0860be8c1eb71e06cbc95fa27d3fb/output/res/layout-v11/notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "/Users/akshayshahane/Downloads/xyz-reader-starter-code-master/XYZReader/build/intermediates/res/merged/debug/layout-v11/notification_media_cancel_action.xml",
+        "source": "/Users/akshayshahane/.android/build-cache/994b327ca2a0860be8c1eb71e06cbc95fa27d3fb/output/res/layout-v11/notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "/Users/akshayshahane/Downloads/xyz-reader-starter-code-master/XYZReader/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_narrow.xml",
+        "source": "/Users/akshayshahane/.android/build-cache/994b327ca2a0860be8c1eb71e06cbc95fa27d3fb/output/res/layout-v11/notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "/Users/akshayshahane/Downloads/xyz-reader-starter-code-master/XYZReader/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media.xml",
+        "source": "/Users/akshayshahane/.android/build-cache/994b327ca2a0860be8c1eb71e06cbc95fa27d3fb/output/res/layout-v11/notification_template_big_media.xml"
+    },
+    {
+        "merged": "/Users/akshayshahane/Downloads/xyz-reader-starter-code-master/XYZReader/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_narrow_custom.xml",
+        "source": "/Users/akshayshahane/.android/build-cache/994b327ca2a0860be8c1eb71e06cbc95fa27d3fb/output/res/layout-v11/notification_template_big_media_narrow_custom.xml"
+    }
+]
