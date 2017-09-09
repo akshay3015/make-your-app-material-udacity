@@ -16,9 +16,10 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.view.WindowInsets;
 
-import com.akshay.xyzreader.R;
+
 import com.akshay.xyzreader.data.ArticleLoader;
 import com.akshay.xyzreader.data.ItemsContract;
+import com.example.xyzreader.R;
 
 /**
  * An activity representing a single Article detail screen, letting you swipe between articles.

@@ -20,10 +20,11 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.widget.TextView;
 
-import com.akshay.xyzreader.R;
+
 import com.akshay.xyzreader.data.ArticleLoader;
 import com.akshay.xyzreader.data.ItemsContract;
 import com.akshay.xyzreader.data.UpdaterService;
+import com.example.xyzreader.R;
 
 import java.text.ParseException;
 import java.text.SimpleDateFormat;
@@ -190,7 +191,12 @@ public class ArticleListActivity extends ActionBarActivity implements
 
         @Override
         public int getItemCount() {
-            return mCursor.getCount();
+
+            if (null!=mCursor) {
+                return mCursor.getCount();
+            }else {
+                return 0;
+            }
         }
     }
 

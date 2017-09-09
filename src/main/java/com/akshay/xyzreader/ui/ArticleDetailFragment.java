@@ -31,8 +31,9 @@ import android.widget.TextView;
 
 import com.android.volley.VolleyError;
 import com.android.volley.toolbox.ImageLoader;
-import com.akshay.xyzreader.R;
+
 import com.akshay.xyzreader.data.ArticleLoader;
+import com.example.xyzreader.R;
 
 /**
  * A fragment representing a single Article detail screen. This fragment is

@@ -26,7 +26,7 @@ import android.util.AttributeSet;
 import android.view.WindowInsets;
 import android.widget.FrameLayout;
 
-import com.akshay.xyzreader.R;
+import com.example.xyzreader.R;
 
 
 public class DrawInsetsFrameLayout extends FrameLayout {

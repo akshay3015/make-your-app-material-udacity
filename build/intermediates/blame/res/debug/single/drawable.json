@@ -16,8 +16,20 @@
         "source": "/Users/akshayshahane/Downloads/xyz-reader-starter-code-master/XYZReader/src/main/res/drawable/add_fab_background.xml"
     },
     {
+        "merged": "/Users/akshayshahane/Downloads/xyz-reader-starter-code-master/XYZReader/build/intermediates/res/merged/debug/drawable/design_snackbar_background.xml",
+        "source": "/Users/akshayshahane/.android/build-cache/c63f449752188a2d8c4ae970da8b4cfda37787e7/output/res/drawable/design_snackbar_background.xml"
+    },
+    {
         "merged": "/Users/akshayshahane/Downloads/xyz-reader-starter-code-master/XYZReader/build/intermediates/res/merged/debug/drawable/abc_ic_voice_search_api_material.xml",
         "source": "/Users/akshayshahane/.android/build-cache/994b327ca2a0860be8c1eb71e06cbc95fa27d3fb/output/res/drawable/abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "/Users/akshayshahane/Downloads/xyz-reader-starter-code-master/XYZReader/build/intermediates/res/merged/debug/drawable/design_password_eye.xml",
+        "source": "/Users/akshayshahane/.android/build-cache/c63f449752188a2d8c4ae970da8b4cfda37787e7/output/res/drawable/design_password_eye.xml"
+    },
+    {
+        "merged": "/Users/akshayshahane/Downloads/xyz-reader-starter-code-master/XYZReader/build/intermediates/res/merged/debug/drawable/navigation_empty_icon.xml",
+        "source": "/Users/akshayshahane/.android/build-cache/c63f449752188a2d8c4ae970da8b4cfda37787e7/output/res/drawable/navigation_empty_icon.xml"
     },
     {
         "merged": "/Users/akshayshahane/Downloads/xyz-reader-starter-code-master/XYZReader/build/intermediates/res/merged/debug/drawable/abc_dialog_material_background.xml",
@@ -48,6 +60,10 @@
         "source": "/Users/akshayshahane/.android/build-cache/994b327ca2a0860be8c1eb71e06cbc95fa27d3fb/output/res/drawable/abc_vector_test.xml"
     },
     {
+        "merged": "/Users/akshayshahane/Downloads/xyz-reader-starter-code-master/XYZReader/build/intermediates/res/merged/debug/drawable/design_fab_background.xml",
+        "source": "/Users/akshayshahane/.android/build-cache/c63f449752188a2d8c4ae970da8b4cfda37787e7/output/res/drawable/design_fab_background.xml"
+    },
+    {
         "merged": "/Users/akshayshahane/Downloads/xyz-reader-starter-code-master/XYZReader/build/intermediates/res/merged/debug/drawable/abc_ic_menu_overflow_material.xml",
         "source": "/Users/akshayshahane/.android/build-cache/994b327ca2a0860be8c1eb71e06cbc95fa27d3fb/output/res/drawable/abc_ic_menu_overflow_material.xml"
     },
@@ -70,6 +86,10 @@
     {
         "merged": "/Users/akshayshahane/Downloads/xyz-reader-starter-code-master/XYZReader/build/intermediates/res/merged/debug/drawable/abc_ratingbar_indicator_material.xml",
         "source": "/Users/akshayshahane/.android/build-cache/994b327ca2a0860be8c1eb71e06cbc95fa27d3fb/output/res/drawable/abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "/Users/akshayshahane/Downloads/xyz-reader-starter-code-master/XYZReader/build/intermediates/res/merged/debug/drawable/design_bottom_navigation_item_background.xml",
+        "source": "/Users/akshayshahane/.android/build-cache/c63f449752188a2d8c4ae970da8b4cfda37787e7/output/res/drawable/design_bottom_navigation_item_background.xml"
     },
     {
         "merged": "/Users/akshayshahane/Downloads/xyz-reader-starter-code-master/XYZReader/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_light.xml",

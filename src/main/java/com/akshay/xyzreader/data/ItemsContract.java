@@ -3,8 +3,8 @@ package com.akshay.xyzreader.data;
 import android.net.Uri;
 
 public class ItemsContract {
-	public static final String CONTENT_AUTHORITY = "com.example.xyzreader";
-	public static final Uri BASE_URI = Uri.parse("content://com.example.xyzreader");
+	public static final String CONTENT_AUTHORITY = "com.akshay.xyzreader";
+	public static final Uri BASE_URI = Uri.parse("content://com.akshay.xyzreader");
 
 	interface ItemsColumns {
 		/** Type: INTEGER PRIMARY KEY AUTOINCREMENT */
