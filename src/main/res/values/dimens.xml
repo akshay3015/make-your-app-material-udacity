@@ -4,10 +4,15 @@
     <dimen name="detail_body_text_size">22sp</dimen>
     <item name="detail_body_line_spacing_multiplier" format="float" type="fraction">1.25</item>
 
-    <dimen name="fab_elevation">2dp</dimen>
+    <dimen name="fab_elevation">4dp</dimen>
     <dimen name="fab_press_translation_z">6dp</dimen>
     <dimen name="fab_margin">24dp</dimen>
     <dimen name="margin_8dips">8dp</dimen>
     <dimen name="padding_8dips">8dp</dimen>
+    <dimen name="padding_16dips">16dp</dimen>
+    <dimen name="collapsing_toolbar_height">300dp</dimen>
+    <dimen name="margin_16dips">16dp</dimen>
+    <dimen name="height_100dips">100dp</dimen>
+    <dimen name="margin_60dips">60dp</dimen>
 
 </resources>
