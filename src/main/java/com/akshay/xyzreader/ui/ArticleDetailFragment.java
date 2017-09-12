@@ -20,6 +20,7 @@ import android.support.v4.app.ShareCompat;
 import android.support.v7.widget.Toolbar;
 import android.text.Html;
 
+import android.text.TextUtils;
 import android.text.format.DateUtils;
 import android.util.Log;
 import android.view.LayoutInflater;
@@ -32,6 +33,7 @@ import android.widget.Toast;
 
 import com.akshay.xyzreader.data.ArticleLoader;
 import com.example.xyzreader.R;
+import com.squareup.picasso.Picasso;
 
 /**
  * A fragment representing a single Article detail screen. This fragment is
@@ -185,6 +187,17 @@ public class ArticleDetailFragment extends Fragment implements
             }
 
             bodyView.setText(Html.fromHtml(mCursor.getString(ArticleLoader.Query.BODY)).toString());
+
+            String imageUrl = mCursor.getString(ArticleLoader.Query.PHOTO_URL);
+
+            if (!TextUtils.isEmpty(imageUrl)){
+
+                Picasso.with(getContext())
+                        .load(imageUrl)
+                        .error(R.drawable.ic_error)
+                        .placeholder(R.drawable.ic_placeholder)
+                        .into(mPhotoView);
+            }
 
         } else {
             mRootView.setVisibility(View.GONE);
