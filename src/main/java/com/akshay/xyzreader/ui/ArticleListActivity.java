@@ -27,6 +27,7 @@ import com.akshay.xyzreader.data.ArticleLoader;
 import com.akshay.xyzreader.data.ItemsContract;
 import com.akshay.xyzreader.data.UpdaterService;
 import com.example.xyzreader.R;
+import com.squareup.picasso.Picasso;
 
 import java.text.ParseException;
 import java.text.SimpleDateFormat;
@@ -184,9 +185,13 @@ public class ArticleListActivity extends AppCompatActivity implements
                         + "<br/>" + " by "
                         + mCursor.getString(ArticleLoader.Query.AUTHOR)));
             }
-            holder.thumbnailView.setImageUrl(
-                    mCursor.getString(ArticleLoader.Query.THUMB_URL),
-                    ImageLoaderHelper.getInstance(ArticleListActivity.this).getImageLoader());
+
+            Picasso.with(holder.itemView.getContext())
+                    .load(mCursor.getString(ArticleLoader.Query.THUMB_URL))
+                    .error(R.drawable.ic_error)
+                    .placeholder(R.drawable.ic_placeholder)
+                    .into(holder.thumbnailView);
+
             holder.thumbnailView.setAspectRatio(mCursor.getFloat(ArticleLoader.Query.ASPECT_RATIO));
         }
 
