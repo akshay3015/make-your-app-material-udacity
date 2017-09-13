@@ -43,35 +43,8 @@
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
                 android:background="@drawable/transparent_bg"/>
-            <LinearLayout
-                android:id="@+id/article_details"
-                android:layout_width="match_parent"
-                android:layout_height="@dimen/height_100dips"
-                android:layout_gravity="bottom"
-                android:orientation="vertical"
-                android:padding="@dimen/padding_16dips">
 
 
-                <TextView
-                    tools:text="sdngken;kgn;"
-                    android:id="@+id/article_title"
-                    style="?android:attr/textAppearanceLarge"
-                    android:layout_width="match_parent"
-                    android:layout_height="wrap_content"
-                    android:maxLines="1"
-                    android:textColor="@color/icons"
-                    android:textStyle="bold"
-                    android:visibility="invisible" />
-
-                <TextView
-                    tools:text=" e feje"
-                    android:id="@+id/article_author"
-                    style="?android:attr/textAppearanceSmall"
-                    android:layout_width="wrap_content"
-                    android:layout_height="wrap_content"
-                    android:textColor="@color/icons" />
-
-            </LinearLayout>
         </FrameLayout>
 
         <android.support.v7.widget.Toolbar
@@ -95,28 +68,59 @@
         android:id="@+id/details_container"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        app:layout_behavior="@string/appbar_scrolling_view_behavior">
+        app:layout_behavior="@string/appbar_scrolling_view_behavior"
+        app:behavior_overlapTop="64dp">
 
 
     <LinearLayout
-                android:layout_width="match_parent"
+
+        android:layout_width="@dimen/max_width_in_landscape"
                 android:layout_height="wrap_content"
                 android:layout_gravity="center_horizontal"
                 android:background="#fff"
-                android:elevation="2dp"
+                app:elevation="4dp"
                 android:orientation="vertical">
+        <LinearLayout
+            android:background="@color/accent"
+            android:id="@+id/article_details"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/height_100dips"
+            android:layout_gravity="bottom"
+            android:orientation="vertical"
+            android:padding="@dimen/padding_16dips">
 
+
+            <TextView
+                tools:text="sdngken;kgn;"
+                android:id="@+id/article_title"
+                style="?android:attr/textAppearanceLarge"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:maxLines="1"
+                android:textColor="@color/icons"
+                android:textStyle="bold"
+                android:visibility="invisible" />
+
+            <TextView
+                tools:text=" e feje"
+                android:id="@+id/article_author"
+                style="?android:attr/textAppearanceSmall"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="@color/icons" />
+
+        </LinearLayout>
 
                 <TextView
+                    android:layout_gravity="center"
                     android:id="@+id/article_body"
                     style="?android:attr/textAppearanceMedium"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:layout_marginLeft="@dimen/margin_16dips"
-                    android:layout_marginRight="@dimen/margin_16dips"
-                    android:layout_marginTop="@dimen/margin_16dips"
+                    android:layout_marginLeft="@dimen/margin_24dips"
+                    android:layout_marginRight="@dimen/margin_24dips"
                     android:lineSpacingMultiplier="@fraction/detail_body_line_spacing_multiplier"
-                    android:paddingBottom="@dimen/padding_16dips"
+                    android:paddingBottom="@dimen/padding_24dips"
                     android:textColor="@color/primary_text"
                     android:textColorLink="@color/primary_text"
                     tools:text="fmaf a f"/>

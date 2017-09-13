@@ -11,14 +11,7 @@
                     "endOffset": 120
                 },
                 "from": {
-                    "file": "/Users/akshayshahane/.android/build-cache/994b327ca2a0860be8c1eb71e06cbc95fa27d3fb/output/res/values-land/values-land.xml",
-                    "position": {
-                        "startLine": 2,
-                        "startColumn": 4,
-                        "startOffset": 55,
-                        "endColumn": 69,
-                        "endOffset": 120
-                    }
+                    "file": "/Users/akshayshahane/.android/build-cache/994b327ca2a0860be8c1eb71e06cbc95fa27d3fb/output/res/values-land/values-land.xml"
                 }
             },
             {
@@ -30,14 +23,7 @@
                     "endOffset": 184
                 },
                 "from": {
-                    "file": "/Users/akshayshahane/.android/build-cache/994b327ca2a0860be8c1eb71e06cbc95fa27d3fb/output/res/values-land/values-land.xml",
-                    "position": {
-                        "startLine": 3,
-                        "startColumn": 4,
-                        "startOffset": 125,
-                        "endColumn": 63,
-                        "endOffset": 184
-                    }
+                    "file": "/Users/akshayshahane/.android/build-cache/994b327ca2a0860be8c1eb71e06cbc95fa27d3fb/output/res/values-land/values-land.xml"
                 }
             },
             {
@@ -49,14 +35,7 @@
                     "endOffset": 255
                 },
                 "from": {
-                    "file": "/Users/akshayshahane/.android/build-cache/994b327ca2a0860be8c1eb71e06cbc95fa27d3fb/output/res/values-land/values-land.xml",
-                    "position": {
-                        "startLine": 4,
-                        "startColumn": 4,
-                        "startOffset": 189,
-                        "endColumn": 70,
-                        "endOffset": 255
-                    }
+                    "file": "/Users/akshayshahane/.android/build-cache/994b327ca2a0860be8c1eb71e06cbc95fa27d3fb/output/res/values-land/values-land.xml"
                 }
             },
             {
@@ -68,14 +47,7 @@
                     "endOffset": 323
                 },
                 "from": {
-                    "file": "/Users/akshayshahane/.android/build-cache/994b327ca2a0860be8c1eb71e06cbc95fa27d3fb/output/res/values-land/values-land.xml",
-                    "position": {
-                        "startLine": 5,
-                        "startColumn": 4,
-                        "startOffset": 260,
-                        "endColumn": 67,
-                        "endOffset": 323
-                    }
+                    "file": "/Users/akshayshahane/.android/build-cache/994b327ca2a0860be8c1eb71e06cbc95fa27d3fb/output/res/values-land/values-land.xml"
                 }
             },
             {
@@ -83,17 +55,17 @@
                     "startLine": 6,
                     "startColumn": 4,
                     "startOffset": 328,
-                    "endColumn": 57,
-                    "endOffset": 381
+                    "endColumn": 42,
+                    "endOffset": 366
                 },
                 "from": {
-                    "file": "/Users/akshayshahane/Downloads/xyz-reader-starter-code-master/XYZReader/src/main/res/values-land/macro_layout.xml",
+                    "file": "/Users/akshayshahane/Downloads/xyz-reader-starter-code-master/XYZReader/src/main/res/values-land/dimens.xml",
                     "position": {
-                        "startLine": 3,
+                        "startLine": 4,
                         "startColumn": 4,
-                        "startOffset": 88,
-                        "endColumn": 57,
-                        "endOffset": 141
+                        "startOffset": 140,
+                        "endColumn": 42,
+                        "endOffset": 178
                     }
                 }
             },
@@ -101,18 +73,18 @@
                 "to": {
                     "startLine": 7,
                     "startColumn": 4,
-                    "startOffset": 386,
-                    "endColumn": 51,
-                    "endOffset": 433
+                    "startOffset": 371,
+                    "endColumn": 54,
+                    "endOffset": 421
                 },
                 "from": {
-                    "file": "/Users/akshayshahane/Downloads/xyz-reader-starter-code-master/XYZReader/src/main/res/values-land/macro_layout.xml",
+                    "file": "/Users/akshayshahane/Downloads/xyz-reader-starter-code-master/XYZReader/src/main/res/values-land/dimens.xml",
                     "position": {
-                        "startLine": 2,
+                        "startLine": 3,
                         "startColumn": 4,
-                        "startOffset": 36,
-                        "endColumn": 51,
-                        "endOffset": 83
+                        "startOffset": 85,
+                        "endColumn": 54,
+                        "endOffset": 135
                     }
                 }
             },
@@ -120,21 +92,25 @@
                 "to": {
                     "startLine": 8,
                     "startColumn": 4,
-                    "startOffset": 438,
-                    "endLine": 11,
-                    "endColumn": 12,
-                    "endOffset": 615
+                    "startOffset": 426,
+                    "endColumn": 49,
+                    "endOffset": 471
                 },
                 "from": {
-                    "file": "/Users/akshayshahane/.android/build-cache/c63f449752188a2d8c4ae970da8b4cfda37787e7/output/res/values-land/values-land.xml",
-                    "position": {
-                        "startLine": 2,
-                        "startColumn": 4,
-                        "startOffset": 55,
-                        "endLine": 5,
-                        "endColumn": 12,
-                        "endOffset": 232
-                    }
+                    "file": "/Users/akshayshahane/Downloads/xyz-reader-starter-code-master/XYZReader/src/main/res/values-land/dimens.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 476,
+                    "endLine": 12,
+                    "endColumn": 12,
+                    "endOffset": 653
+                },
+                "from": {
+                    "file": "/Users/akshayshahane/.android/build-cache/c63f449752188a2d8c4ae970da8b4cfda37787e7/output/res/values-land/values-land.xml"
                 }
             }
         ]

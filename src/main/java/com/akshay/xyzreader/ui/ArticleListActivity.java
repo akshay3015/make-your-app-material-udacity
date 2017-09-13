@@ -186,12 +186,10 @@ public class ArticleListActivity extends AppCompatActivity implements
                         + mCursor.getString(ArticleLoader.Query.AUTHOR)));
             }
 
-            Picasso.with(holder.itemView.getContext())
-                    .load(mCursor.getString(ArticleLoader.Query.THUMB_URL))
-                    .error(R.drawable.ic_error)
-                    .placeholder(R.drawable.ic_placeholder)
-                    .into(holder.thumbnailView);
 
+            holder.thumbnailView.setImageUrl(
+                    mCursor.getString(ArticleLoader.Query.THUMB_URL),
+                    ImageLoaderHelper.getInstance(ArticleListActivity.this).getImageLoader());
             holder.thumbnailView.setAspectRatio(mCursor.getFloat(ArticleLoader.Query.ASPECT_RATIO));
         }
 

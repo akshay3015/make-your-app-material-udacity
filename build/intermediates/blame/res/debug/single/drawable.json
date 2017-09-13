@@ -72,12 +72,12 @@
         "source": "/Users/akshayshahane/.android/build-cache/994b327ca2a0860be8c1eb71e06cbc95fa27d3fb/output/res/drawable/abc_item_background_holo_dark.xml"
     },
     {
-        "merged": "/Users/akshayshahane/Downloads/xyz-reader-starter-code-master/XYZReader/build/intermediates/res/merged/debug/drawable/abc_btn_check_material.xml",
-        "source": "/Users/akshayshahane/.android/build-cache/994b327ca2a0860be8c1eb71e06cbc95fa27d3fb/output/res/drawable/abc_btn_check_material.xml"
-    },
-    {
         "merged": "/Users/akshayshahane/Downloads/xyz-reader-starter-code-master/XYZReader/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_light.xml",
         "source": "/Users/akshayshahane/.android/build-cache/994b327ca2a0860be8c1eb71e06cbc95fa27d3fb/output/res/drawable/abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "/Users/akshayshahane/Downloads/xyz-reader-starter-code-master/XYZReader/build/intermediates/res/merged/debug/drawable/abc_btn_check_material.xml",
+        "source": "/Users/akshayshahane/.android/build-cache/994b327ca2a0860be8c1eb71e06cbc95fa27d3fb/output/res/drawable/abc_btn_check_material.xml"
     },
     {
         "merged": "/Users/akshayshahane/Downloads/xyz-reader-starter-code-master/XYZReader/build/intermediates/res/merged/debug/drawable/abc_edit_text_material.xml",
