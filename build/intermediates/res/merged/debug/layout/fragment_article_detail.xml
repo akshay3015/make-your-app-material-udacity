@@ -118,7 +118,6 @@
                     android:lineSpacingMultiplier="@fraction/detail_body_line_spacing_multiplier"
                     android:paddingBottom="@dimen/padding_16dips"
                     android:textColor="@color/primary_text"
-                    android:textColorLink="@color/primary_text"
                     tools:text="fmaf a f"/>
 
             </LinearLayout>
