@@ -49,7 +49,14 @@
                     "endOffset": 206
                 },
                 "from": {
-                    "file": "/Users/akshayshahane/Downloads/xyz-reader-starter-code-master/XYZReader/src/main/res/values-w800dp/dimens.xml"
+                    "file": "/Users/akshayshahane/Downloads/xyz-reader-starter-code-master/XYZReader/src/main/res/values-w800dp/dimens.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 163,
+                        "endColumn": 54,
+                        "endOffset": 213
+                    }
                 }
             },
             {
@@ -61,7 +68,14 @@
                     "endOffset": 256
                 },
                 "from": {
-                    "file": "/Users/akshayshahane/Downloads/xyz-reader-starter-code-master/XYZReader/src/main/res/values-w800dp/dimens.xml"
+                    "file": "/Users/akshayshahane/Downloads/xyz-reader-starter-code-master/XYZReader/src/main/res/values-w800dp/dimens.xml",
+                    "position": {
+                        "startLine": 1,
+                        "startColumn": 4,
+                        "startOffset": 16,
+                        "endColumn": 49,
+                        "endOffset": 61
+                    }
                 }
             }
         ]
